@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaruiWHY
-- 📒 An undergraduate in Electronic Information School, Wuhan University. 
-- 🌱 I’m currently learning machine learning.
+- 📒 I am a first-year master's student at Shenzhen International Graduate School, Tsinghua University. I received my B.S. degree in the Electronic Information School, Wuhan University in 2025.
+- 🌱 I’m currently learning deep learning.
 
 <!---- 💞️ I’m looking to collaborate on ...
 
