@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KaruiWHY
-- 📒 I am a first-year master's student at Shenzhen International Graduate School, Tsinghua University. I received my B.S. degree in the Electronic Information School, Wuhan University in 2025.
-- 🌱 I’m currently learning deep learning.
+- 👋 Hi, I’m Haoyang Wu(吴昊阳).
+- 📒 I am a second-year master's student at Shenzhen International Graduate School, Tsinghua University. I received my B.S. degree in the Electronic Information School, Wuhan University in 2025.
+- 🌱 I’m currently learning LLM inference and deployment.
 
 <!---- 💞️ I’m looking to collaborate on ...
 
